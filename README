@@ -1,0 +1,1 @@
+I have used Type object pattern to decouples movie class. So we can associate or create category class at runtime.
